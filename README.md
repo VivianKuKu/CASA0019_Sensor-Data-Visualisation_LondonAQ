@@ -2,7 +2,7 @@
 
 > Group project for CASA0019 Sensor Data Visualisation
 
-> Group members: Sin Man Choi, Vivian Chin Ku, Yumeng Cheng, Ya Cui
+> Group members: [Sin Man Choi](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/commits?author=abichoi), Vivian Chin Ku, Yumeng Cheng, Ya Cui
 
 
 ## Abstract
