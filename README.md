@@ -12,4 +12,10 @@ With the increased importance people place on their health, real-time air qualit
 ## Instruction
 1. [Document](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/Documents) : Project final presentation and flyer.
 2. [LondonAQ](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/LondonAQ) : AR app for andriod and ios
-3. [PhysicalDevice_Final](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_Final) : Arduino IDE for physical device
+  * **Android**: Download the APK file and run on your mobile phone or tablet computer
+  * **ios**: 
+    1. Download the ios file
+    2. Download the [libiPhone-lib.a](https://drive.google.com/file/d/1mxPpdu-mXIQpGRUIBpvR5ddo-mv6UkEe/view?usp=sharing)
+    3. Copy and paste the **libiPhone-lib.a** into **Libraries** folder in the previous downloaded ios folder
+    4. Open Xcode and run it on your mobile phone or ipad
+4. [PhysicalDevice_Final](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_Final) : Arduino IDE for physical device
