@@ -21,3 +21,10 @@ With the increased importance people place on their health, real-time air qualit
 4. [PhysicalDevice_Code](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_Code) : Arduino IDE for physical device
 5. [PhysicalDevice_3Dmodel](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_3Dmodel) : Download the Fusion360 file to see it or even adjust to your own version
 6. Printing the Physical Device: Export Fusion360 model as stl. format and import it into [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+
+## Final Result
+
+![DSC00530_v2](https://user-images.githubusercontent.com/52306317/149184234-accc0228-3a3f-461c-9e6c-4fbff17a2349.JPG)
+![image](https://user-images.githubusercontent.com/52306317/149184307-ffdbade3-7472-4e4b-80db-e5c2a930ca78.png)
+![image](https://user-images.githubusercontent.com/52306317/149184322-2d74f060-479b-435e-9972-33061cefe495.png)
+![image](https://user-images.githubusercontent.com/52306317/149184388-b9e71368-db33-4580-bbbc-136960575e74.png)
