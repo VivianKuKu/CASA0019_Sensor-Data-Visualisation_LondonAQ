@@ -18,4 +18,6 @@ With the increased importance people place on their health, real-time air qualit
     2. Download the [libiPhone-lib.a](https://drive.google.com/file/d/1mxPpdu-mXIQpGRUIBpvR5ddo-mv6UkEe/view?usp=sharing)
     3. Copy and paste the **libiPhone-lib.a** into **Libraries** folder in the previous downloaded ios folder
     4. Open Xcode and run it on your mobile phone or ipad
-4. [PhysicalDevice_Final](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_Final) : Arduino IDE for physical device
+4. [PhysicalDevice_Code](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_Code) : Arduino IDE for physical device
+5. [PhysicalDevice_3Dmodel](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_3Dmodel) : Download the Fusion360 file to see it or even adjust to your own version
+6. Printing the Physical Device
