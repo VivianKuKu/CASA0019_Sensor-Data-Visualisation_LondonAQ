@@ -20,4 +20,4 @@ With the increased importance people place on their health, real-time air qualit
     4. Open Xcode and run it on your mobile phone or ipad
 4. [PhysicalDevice_Code](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_Code) : Arduino IDE for physical device
 5. [PhysicalDevice_3Dmodel](https://github.com/VivianKuKu/CASA0019_Sensor-Data-Visualisation_LondonAQ/tree/main/PhysicalDevice_3Dmodel) : Download the Fusion360 file to see it or even adjust to your own version
-6. Printing the Physical Device
+6. Printing the Physical Device: Export Fusion360 model as stl. format and import it into [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
